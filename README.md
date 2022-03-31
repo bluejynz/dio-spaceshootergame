@@ -1,7 +1,7 @@
-# GENIUS GAME :green_heart::heart::blue_heart::yellow_heart:
+# SPACE SHOOTER GAME 👽:space_invader: 
 
-### Jogo estilo genius feito utilizando HTML, CSS e Javascript.
+### Jogo space shooter feito utilizando HTML, CSS e Javascript.
 
-!["screenshot"](https://github.com/bluejynz/dio-geniusgame/blob/tentando-sozinha/genius.png?raw=true)
+!["screenshot"](https://github.com/bluejynz/dio-spaceshootergame/blob/main/spaceshooter.png?raw=true)
 
 ##### Bootcamp Web Games Developer da DIO
